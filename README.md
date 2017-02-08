@@ -9,13 +9,13 @@ Instant dive-in button: [![Binder](http://mybinder.org/badge.svg)](http://mybind
 YSDA on wednesdays at 18-00
 
 # Announcements
-* First lecture will happen on 8.02 -- or will it?
+* First lecture will happen on 8.02
 
 # Syllabus
 - __week1__ Intro
   - [ ] Lecture: Intro
   - [ ] Seminar: Unsupervised representation learning. PCA. SparseCoding
-     - [ ] HW due: 15.02.2017, 23:59.
+     - [ ] HW due: 14.02.2017, 23:59.
   - [ ] Please get bleeding edge theano+lasagne installed for the next seminar. 
     - [Issue](https://github.com/yandexdataschool/HSE_deeplearning/issues/1)
     - [Linux Guidelines](http://agentnet.readthedocs.io/en/latest/user/install.html)
