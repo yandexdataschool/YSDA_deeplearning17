@@ -1,22 +1,21 @@
 # Deep Learning course
 Lecture and seminar materials for each week are in ./Seminar* folders
 
-Instant dive-in button: [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/ddtm/dl-course) 
+Instant dive-in button: [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/yandexdataschool/ysda_deeplearning17)
 (servers may be down time to time, sry)
 
 
 # Coordinates
-* YSDA every wednesday at 18-00
-* Skoltech TBA
+YSDA on wednesdays at 18-00
 
 # Announcements
 * First lecture will happen on 8.02 -- or will it?
 
 # Syllabus
-- __week1__ lecturename
+- __week1__ Intro
   - [ ] Lecture: Intro
-  - [ ] Seminar: Unsupervised feature learning on faces dataset
-     - [ ] HW due: xx.yy.zz, 23:59.
+  - [ ] Seminar: Unsupervised representation learning. PCA. SparseCoding
+     - [ ] HW due: 15.02.2016, 23:59.
   - [ ] Please get bleeding edge theano+lasagne installed for the next seminar. 
     - [Issue](https://github.com/yandexdataschool/HSE_deeplearning/issues/1)
     - [Linux Guidelines](http://agentnet.readthedocs.io/en/latest/user/install.html)
