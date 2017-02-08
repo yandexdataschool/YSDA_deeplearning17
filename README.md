@@ -15,14 +15,14 @@ YSDA on wednesdays at 18-00
 - __week1__ Intro
   - [ ] Lecture: Intro
   - [ ] Seminar: Unsupervised representation learning. PCA. SparseCoding
-     - [ ] HW due: 15.02.2016, 23:59.
+     - [ ] HW due: 15.02.2017, 23:59.
   - [ ] Please get bleeding edge theano+lasagne installed for the next seminar. 
     - [Issue](https://github.com/yandexdataschool/HSE_deeplearning/issues/1)
     - [Linux Guidelines](http://agentnet.readthedocs.io/en/latest/user/install.html)
 
 # Contributors & course staff
 Course materials and teaching performed by
-- [Viktor Lempitsky](http://sites.skoltech.ru/compvision/members/vilem/)
+- [Victor Lempitsky](http://sites.skoltech.ru/compvision/members/vilem/)
 - [Dmitry Ulyanov](https://github.com/DmitryUlyanov) - seminars, homeworks 
 - [Vadim Lebedev](https://github.com/vadim-v-lebedev) - seminars, homeworks
 - [Victor Yurchenko](https://github.com/simflin) - seminars, homeworks
