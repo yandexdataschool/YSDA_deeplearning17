@@ -6,7 +6,8 @@ Instant dive-in button: [![Binder](http://mybinder.org/badge.svg)](http://mybind
 
 
 # Coordinates
-YSDA on wednesdays at 18-00
+* YSDA on wednesdays at 18-00
+* Telegram chat [invite link](https://t.me/joinchat/AAAAAAuC09xPRKOL9SCVnw)
 
 # Announcements
 * First lecture will happen on 8.02
