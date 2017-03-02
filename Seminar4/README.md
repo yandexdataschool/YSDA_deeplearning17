@@ -16,4 +16,10 @@
 
 ## Homework
 
-Go to Seminar3.5-*-mnist.ipynb and follow the instructions (ends with lasagne MNIST classifier)
+Go to Seminar4-*-mnist.ipynb and follow the instructions (ends with lasagne MNIST classifier)
+
+Alternatively, try any notebook in bonus/ section
+* CIFAR - for deeper dive into convnets
+* theano - for deeper dive into pure theano
+
+If you submit multiple versions, the score is computed based on the best one, so you __won't__ get +30 points for submitting 3 assignments.
