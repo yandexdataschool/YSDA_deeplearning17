@@ -1,6 +1,5 @@
 
 ## Materials
-* [__Lecture slides__](https://yadi.sk/i/yAO2AJ3M3EKP8g)
 * Lecture on deep learning (russian) - https://www.youtube.com/watch?v=8008XQzoUEs
 * Seminar on theano (russian) - https://yadi.sk/i/54STsEBVpubkn
 * Intro to neural nets and backprop (english) - https://www.youtube.com/watch?v=uXt8qF2Zzfo
