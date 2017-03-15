@@ -1,25 +1,19 @@
-# Deep Learning course
+# Deep Learning course, 2017
+
 Lecture and seminar materials for each week are in ./Seminar* folders
 
 Instant dive-in button: [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/yandexdataschool/ysda_deeplearning17)
-(servers may be down time to time, sry)
-
+(servers may be down time to time)
 
 # Coordinates
-* YSDA on wednesdays at 18-00
+
+* [Yandex SDA](yandexdataschool.com) on wednesdays at 18-00
 * Telegram chat [invite link](https://t.me/joinchat/AAAAAAuC09xPRKOL9SCVnw)
 
-# Announcements
-* First lecture will happen on 8.02
+# Communication
 
-# Syllabus
-- __week1__ Intro
-  - [ ] Lecture: Intro
-  - [ ] Seminar: Unsupervised representation learning. PCA. SparseCoding
-     - [ ] HW due: 14.02.2017, 23:59.
-  - [ ] Please get bleeding edge theano+lasagne installed for the next seminar. 
-    - [Issue](https://github.com/yandexdataschool/HSE_deeplearning/issues/1)
-    - [Linux Guidelines](http://agentnet.readthedocs.io/en/latest/user/install.html)
+* discussion / questions / problems are in telegram chat
+* announcements are published at YSDA wiki
 
 # Contributors & course staff
 Course materials and teaching performed by
@@ -27,7 +21,7 @@ Course materials and teaching performed by
 - [Dmitry Ulyanov](https://github.com/DmitryUlyanov) - seminars, homeworks 
 - [Vadim Lebedev](https://github.com/vadim-v-lebedev) - seminars, homeworks
 - [Victor Yurchenko](https://github.com/simflin) - seminars, homeworks
-- [Just Heuristic](https://github.com/justheuristic/) - seminars, homeworks
+- [Alexander Panin](https://github.com/justheuristic/) - seminars, homeworks
 
 Contributors:
 - [Oleg Vasilev](https://github.com/Omrigan) - a lot of miscelaneous improvements
