@@ -1,6 +1,5 @@
 
 ## Materials
-* [__Lecture slides__](https://yadi.sk/i/yAO2AJ3M3EKP8g)
 * Lecture on deep learning (russian) - https://www.youtube.com/watch?v=8008XQzoUEs
 * Seminar on theano (russian) - https://yadi.sk/i/54STsEBVpubkn
 * Intro to neural nets and backprop (english) - https://www.youtube.com/watch?v=uXt8qF2Zzfo
@@ -17,4 +16,10 @@
 
 ## Homework
 
-Go to Seminar3.5-*-mnist.ipynb and follow the instructions (ends with lasagne MNIST classifier)
+Go to Seminar4-*-mnist.ipynb and follow the instructions (ends with lasagne MNIST classifier)
+
+Alternatively, try any notebook in bonus/ section
+* CIFAR - for deeper dive into convnets
+* theano - for deeper dive into pure theano
+
+If you submit multiple versions, the score is computed based on the best one, so you __won't__ get +30 points for submitting 3 assignments.
