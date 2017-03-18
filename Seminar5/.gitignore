@@ -1,0 +1,2 @@
+# not ignore pickled classes
+!classes.pkl
