@@ -10,3 +10,4 @@ venv/
 *.npz
 *.pkl
 *.zip
+*.gz
